@@ -115,7 +115,7 @@ import java.util.List;
             // # → refers to ID EXAMPLE: driver.findElement(By.cssSelector( "#cake"));
             // > → jumps to the child EXAMPLE: driver.findElement(By.css(".submit>div"));
 
-            // HI Group 5
+            // HI Group 5 ...
         }
     }
 
